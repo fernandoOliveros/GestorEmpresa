@@ -1,2 +1,2 @@
 # GestorEmpresa
-Proyecto final apra Gestor de empresa - DJANGO
+Proyecto final para Gestor de empresa - DJANGO
